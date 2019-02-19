@@ -26,7 +26,7 @@ SSC0511 - Organização de Computadores Digitais
 - Bomberman: Gustavo Antonio Perin, João Vitor Monteiro, Marcelo Augusto Dos Reis - https://github.com/Bobagi/Bomberman
 - Insira o seu projeto AQUI
 -ICMC WARS: Gabriel Angelo Sgarbi Cocenza, Ingrid Hiromi Yagui Otani, Maria Vitória do N. Inocencio - https://github.com/gabrielcocenza/ICMC_WARS
--
+-Snake simas: Luiz Adorno, Ricardo Atakami - https://github.com/luiz-usp/snake_simas
 -
 -
 -
